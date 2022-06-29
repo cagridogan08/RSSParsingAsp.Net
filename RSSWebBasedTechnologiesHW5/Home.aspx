@@ -56,7 +56,6 @@
         </div>
     </form>
    <footer>
-
    </footer>
 </body>
 </html>
